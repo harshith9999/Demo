@@ -1,0 +1,127 @@
+.Accounts-FirstRow {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  background: #d0ced0;
+}
+.Body {
+  display: flex;
+  justify-content: center;
+}
+.RightContent {
+  width: 100%;
+}
+.Small-Font {
+  font-size: 14px;
+  margin: 5px;
+}
+.Small-Margin {
+  margin: 5px;
+}
+.LeftBar-Container {
+  width: 15%;
+  height: calc(100vh - 32px);
+  font-size: 14px;
+  font-weight: 600;
+  border: 1px solid #d1d0d3;
+}
+.Left-Items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f5f6fe;
+  border: 1px solid #d8e5ef;
+}
+.HeadingContainer {
+  display: flex;
+  align-items: center;
+  background: #b3cbe8;
+  justify-content: space-between;
+}
+.HeadingSubContainer {
+  display: flex;
+  align-items: center;
+}
+.HeadingText {
+  color: #1f384e;
+  font-weight: 600;
+  font-size: 17px;
+  padding-left: 5px;
+}
+.Accounts-Body {
+  padding: 20px;
+  font-size: 14px;
+}
+.Accounts-Buttons {
+  display: flex;
+  margin-top: 15px;
+  align-items: center;
+}
+.Table-header {
+  display: flex;
+  font-size: 13px;
+  justify-content: space-between;
+  align-items: center;
+  background: #cee5fa;
+  border-top: 2px solid #a3c4e9;
+}
+.Table-Subheader {
+  display: flex;
+  font-size: 13px;
+  justify-content: space-between;
+  align-items: center;
+  background: #cee5fa;
+  margin-top: 1px;
+}
+.Table-SubheaderText {
+  width: 11%;
+  padding-left: 2px;
+  border: 1px solid #b2c0d1;
+}
+.Table-Data {
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1px;
+  border-bottom: 1px solid #b2c0d1;
+}
+.Table-DataText {
+  width: 11%;
+  padding: 2px;
+  text-decoration: none;
+}
+.Corporate-FirstContainer {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.Corporate-DetailsContainer {
+  display: flex;
+  justify-content: center;
+}
+.Corporate-Text {
+  padding: 5px;
+}
+.Corporate-LeftDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.Corporate-RightDetails {
+  margin-left: 20px;
+}
+.Corporate-FirstSubContainer {
+  font-weight: 600;
+  border-bottom: 2px solid #7ca9e2;
+  margin-top: 25px;
+}
+.Corporate-SecondContainer {
+  display: flex;
+  width: 30%;
+  justify-content: center;
+}
+.Corporate-ThirdContainer {
+  width: 20%;
+}
